@@ -1,0 +1,57 @@
+body{
+			color:white;
+			}
+	
+	h1{
+		color:black;
+		text-align: center;
+		 font-style: italic;
+	}
+	div{
+		width:200px;
+		height:100px;
+		padding:30px;
+		text-align: center;
+		border-radius:40px;
+	}
+		
+			
+		#cajacardo{
+			background-color: #D8BFD8;
+			clear:both;
+			width:97%;
+			}
+		#cajaamarillo{
+			color: black;
+			background-color: #ffff73;
+			float: right;
+			clear: both;
+			}	
+		#cajaceleste{
+			background-color: #468fc5;
+			float: left;
+			img{
+				width: 50% ;
+				height: 60% ;
+				float: left;
+				}
+			}
+		#cajababyblue{
+			background-color: #89CFF0;
+			float: right;
+			clear:both;
+			img{
+				width: 60% ;
+				height: 50% ;
+				}
+			}
+		#cajaLightGreen{
+			background-color: #90EE90;
+			float: left;
+			}
+		
+		#cajasalmon{
+			background-color: #FA8072;
+			clear:both;
+			width:97%;
+			}
